@@ -3,6 +3,9 @@ package tennisPro;
 public class temp {
     public static void main(String[] args) {
 
+    	// 아무튼 직접 만들어보기
+    	
+    	
         /* [테니스 게임 구현]
             테니스 : 단식 혹은 복식 구성
                    양 선수가 네트를 사이에 두고 라켓으로 공을 쳐서 상대방 코트로 떨어뜨리는 스포츠
@@ -37,14 +40,14 @@ public class temp {
 
         /*
         2. 게임 요소
-        - 변수 : player, point, game, set, match, winner,
+        
 
 
 
          */
 
 
-
+    	
 
 
 
